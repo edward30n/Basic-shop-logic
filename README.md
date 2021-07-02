@@ -1,8 +1,8 @@
 # Basic-shop-logic-Excecise-I-
 
 
-    Purpose:
-    * The main purpose of this program is to apply the basic concepts of the language C and make the basic logic to enter into a shop (with the Colombian laws during the Covid 19) and shop. this code is made for educational purpuse only.
+   Purpose:
+   * The main purpose of this program is to apply the basic concepts of the language C and make the basic logic to enter into a shop (with the Colombian laws during the Covid 19) and shop. this code is made for educational purpuse only.
     * If you are starting  to learn C language this is a perfect exercise you can start with. to try a solution before watching mine, you have to stick only to the file named "         Taller1-Intro-II.docx ". When you are finished with it you can go and check my code to see if you made a better solution :D.
 
 
